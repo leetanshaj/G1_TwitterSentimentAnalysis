@@ -2,14 +2,11 @@
 
 The goal of this project is to train and obtain a classification model which can classify tweets on their sentiment it portrays.
 The dataset used for training and validation here was of users tweeting for US Based Airlines
-The project was completed under Mr. Akshay Gugnani under a timespan of 30 Days
+The project was completed under Mr. Akshay Gugnani 
 
 ![](frontend.png)
 ![](frontend1.png)
 
-<strong>Group Members :-</strong><br><br>
+<strong>Contributors :-</strong><br><br>
 <strong><a href = "https://www.linkedin.com/in/anshaj-g-0588b0122/">Anshaj Goyal</a></strong><br>
-<strong>Yash Satwani</strong><br>
-<strong>Shreya Sharma</strong><br>
-<strong>Kush Kumar</strong><br>
-<strong>Deepak</strong><br>
+<strong>Yash Satwani</strong>
